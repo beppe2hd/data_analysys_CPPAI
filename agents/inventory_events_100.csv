@@ -1,0 +1,101 @@
+id,product_id,product_name,brand,category,color,action,qty_delta,unit_price,notes,ts
+1,1001,Wireless Mouse,Acme,Electronics,Blue,restock,10,479.88,stock correction,2026-07-09 05:42:00
+2,1010,Water Bottle,Nova,Sports,Gray,restock,39,13.99,online order,2026-07-10 13:36:00
+3,1009,T-Shirt,Acme,Apparel,Blue,restock,26,91.8,stock correction,2026-07-19 11:06:00
+4,1003,Coffee Maker,Vertex,Home,Yellow,sale,-11,258.4,online order,2026-07-11 21:08:00
+5,1009,T-Shirt,Acme,Apparel,Red,restock,37,94.6,promo batch,2026-07-02 16:03:00
+6,1001,Wireless Mouse,Acme,Electronics,Blue,sale,-19,140.9,online order,2026-07-02 23:33:00
+7,1001,Wireless Mouse,Acme,Electronics,Gray,sale,-40,231.15,seasonal item,2026-07-15 03:57:00
+8,1009,T-Shirt,Acme,Apparel,Gray,restock,11,67.1,warehouse sync,2026-07-03 01:49:00
+9,1010,Water Bottle,Nova,Sports,Blue,restock,24,365.36,online order,2026-07-15 16:38:00
+10,1002,Running Shoes,Nova,Apparel,Yellow,restock,32,450.13,warehouse sync,2026-07-16 21:23:00
+11,1008,Desk Lamp,Cobalt,Home,Blue,restock,39,387.84,store replenishment,2026-07-08 23:08:00
+12,1003,Coffee Maker,Vertex,Home,Red,restock,7,346.42,promo batch,2026-07-10 09:28:00
+13,1001,Wireless Mouse,Acme,Electronics,Gray,sale,-8,66.95,warehouse sync,2026-07-01 16:49:00
+14,1009,T-Shirt,Acme,Apparel,Gray,restock,17,468.94,stock correction,2026-07-16 07:29:00
+15,1002,Running Shoes,Nova,Apparel,Yellow,sale,-6,360.13,promo batch,2026-07-19 09:59:00
+16,1010,Water Bottle,Nova,Sports,Gray,restock,17,298.95,stock correction,2026-07-10 01:58:00
+17,1006,Face Cream,Aster,Beauty,Black,sale,-12,270.87,store replenishment,2026-07-18 01:52:00
+18,1001,Wireless Mouse,Acme,Electronics,Black,sale,-20,114.47,stock correction,2026-07-05 08:49:00
+19,1007,Bluetooth Speaker,Zenith,Electronics,Red,sale,-4,231.59,warehouse sync,2026-07-02 15:06:00
+20,1009,T-Shirt,Acme,Apparel,Purple,sale,-38,175.72,stock correction,2026-07-06 00:08:00
+21,1003,Coffee Maker,Vertex,Home,Yellow,sale,-1,58.21,promo batch,2026-07-06 00:07:00
+22,1007,Bluetooth Speaker,Zenith,Electronics,Gray,restock,7,11.8,seasonal item,2026-07-09 08:07:00
+23,1005,Yoga Mat,Pulse,Sports,Black,sale,-35,289.73,promo batch,2026-07-16 02:15:00
+24,1001,Wireless Mouse,Acme,Electronics,Blue,sale,-18,241.78,stock correction,2026-07-21 07:17:00
+25,1006,Face Cream,Aster,Beauty,Purple,sale,-21,115.14,store replenishment,2026-07-16 21:13:00
+26,1003,Coffee Maker,Vertex,Home,Purple,restock,37,335.71,stock correction,2026-07-07 17:46:00
+27,1005,Yoga Mat,Pulse,Sports,Blue,restock,36,306.78,promo batch,2026-07-16 18:27:00
+28,1010,Water Bottle,Nova,Sports,Blue,sale,-39,373.93,store replenishment,2026-07-15 02:06:00
+29,1004,Protein Bar,Orion,Grocery,Red,sale,-13,307.09,seasonal item,2026-07-16 21:51:00
+30,1003,Coffee Maker,Vertex,Home,Purple,restock,30,212.19,stock correction,2026-07-02 16:21:00
+31,1005,Yoga Mat,Pulse,Sports,Gray,restock,9,61.21,seasonal item,2026-07-08 04:22:00
+32,1002,Running Shoes,Nova,Apparel,Black,restock,29,166.29,promo batch,2026-07-19 04:50:00
+33,1008,Desk Lamp,Cobalt,Home,White,sale,-24,153.83,online order,2026-07-10 14:15:00
+34,1001,Wireless Mouse,Acme,Electronics,Black,sale,-20,443.46,promo batch,2026-07-18 03:09:00
+35,1003,Coffee Maker,Vertex,Home,Green,sale,-17,453.29,seasonal item,2026-07-09 14:58:00
+36,1002,Running Shoes,Nova,Apparel,White,restock,9,55.74,warehouse sync,2026-07-10 15:19:00
+37,1003,Coffee Maker,Vertex,Home,Purple,restock,4,190.83,online order,2026-07-10 16:40:00
+38,1008,Desk Lamp,Cobalt,Home,Blue,sale,-1,339.13,seasonal item,2026-07-11 17:30:00
+39,1002,Running Shoes,Nova,Apparel,Yellow,sale,-29,350.86,stock correction,2026-07-15 20:43:00
+40,1003,Coffee Maker,Vertex,Home,Red,sale,-23,8.0,warehouse sync,2026-07-06 23:21:00
+41,1009,T-Shirt,Acme,Apparel,Gray,restock,12,15.64,warehouse sync,2026-07-08 22:13:00
+42,1007,Bluetooth Speaker,Zenith,Electronics,Black,restock,4,10.18,warehouse sync,2026-07-16 05:05:00
+43,1004,Protein Bar,Orion,Grocery,Blue,sale,-16,25.61,warehouse sync,2026-07-09 19:02:00
+44,1005,Yoga Mat,Pulse,Sports,Black,sale,-5,309.61,seasonal item,2026-07-12 00:42:00
+45,1005,Yoga Mat,Pulse,Sports,Gray,restock,39,96.8,stock correction,2026-07-04 22:40:00
+46,1010,Water Bottle,Nova,Sports,Black,restock,27,333.34,stock correction,2026-07-11 03:23:00
+47,1007,Bluetooth Speaker,Zenith,Electronics,Purple,restock,2,263.38,warehouse sync,2026-07-18 19:09:00
+48,1010,Water Bottle,Nova,Sports,Blue,sale,-8,41.91,warehouse sync,2026-07-02 23:29:00
+49,1001,Wireless Mouse,Acme,Electronics,Purple,restock,33,407.58,warehouse sync,2026-07-09 17:14:00
+50,1004,Protein Bar,Orion,Grocery,Red,restock,24,55.21,online order,2026-07-03 04:08:00
+51,1010,Water Bottle,Nova,Sports,Blue,sale,-8,435.26,promo batch,2026-07-02 03:43:00
+52,1002,Running Shoes,Nova,Apparel,Gray,restock,33,495.78,seasonal item,2026-07-08 22:44:00
+53,1005,Yoga Mat,Pulse,Sports,Blue,restock,35,15.9,warehouse sync,2026-07-16 18:46:00
+54,1010,Water Bottle,Nova,Sports,White,sale,-4,14.37,warehouse sync,2026-07-07 02:16:00
+55,1006,Face Cream,Aster,Beauty,Yellow,restock,20,20.55,seasonal item,2026-07-21 08:41:00
+56,1005,Yoga Mat,Pulse,Sports,Black,restock,6,179.43,online order,2026-07-18 06:47:00
+57,1002,Running Shoes,Nova,Apparel,Blue,restock,22,182.92,stock correction,2026-07-10 21:18:00
+58,1006,Face Cream,Aster,Beauty,Green,sale,-7,224.8,promo batch,2026-07-10 13:30:00
+59,1010,Water Bottle,Nova,Sports,Gray,restock,17,249.47,seasonal item,2026-07-10 00:06:00
+60,1005,Yoga Mat,Pulse,Sports,Purple,sale,-40,256.48,store replenishment,2026-07-16 09:28:00
+61,1005,Yoga Mat,Pulse,Sports,Red,restock,26,429.95,promo batch,2026-07-02 02:01:00
+62,1005,Yoga Mat,Pulse,Sports,Green,sale,-23,429.98,online order,2026-07-15 05:20:00
+63,1010,Water Bottle,Nova,Sports,Black,restock,27,291.56,online order,2026-07-07 02:57:00
+64,1006,Face Cream,Aster,Beauty,Green,restock,40,363.43,warehouse sync,2026-07-01 12:36:00
+65,1005,Yoga Mat,Pulse,Sports,White,sale,-8,228.68,promo batch,2026-07-17 05:21:00
+66,1004,Protein Bar,Orion,Grocery,Purple,sale,-6,136.38,online order,2026-07-05 00:36:00
+67,1001,Wireless Mouse,Acme,Electronics,Green,sale,-6,193.5,online order,2026-07-12 22:45:00
+68,1006,Face Cream,Aster,Beauty,Blue,sale,-24,309.79,store replenishment,2026-07-15 17:23:00
+69,1008,Desk Lamp,Cobalt,Home,White,sale,-8,80.82,seasonal item,2026-07-11 16:26:00
+70,1005,Yoga Mat,Pulse,Sports,Gray,sale,-26,78.98,seasonal item,2026-07-11 02:38:00
+71,1010,Water Bottle,Nova,Sports,Gray,sale,-10,410.63,warehouse sync,2026-07-20 11:11:00
+72,1009,T-Shirt,Acme,Apparel,Green,restock,1,193.47,promo batch,2026-07-20 23:18:00
+73,1004,Protein Bar,Orion,Grocery,Gray,restock,36,295.41,promo batch,2026-07-09 08:56:00
+74,1004,Protein Bar,Orion,Grocery,Gray,restock,15,246.18,warehouse sync,2026-07-03 02:18:00
+75,1008,Desk Lamp,Cobalt,Home,Gray,restock,8,191.43,promo batch,2026-07-01 23:18:00
+76,1005,Yoga Mat,Pulse,Sports,Gray,sale,-25,294.07,warehouse sync,2026-07-02 03:47:00
+77,1001,Wireless Mouse,Acme,Electronics,Green,restock,26,418.34,warehouse sync,2026-07-06 09:43:00
+78,1010,Water Bottle,Nova,Sports,Blue,restock,23,45.13,seasonal item,2026-07-12 13:15:00
+79,1001,Wireless Mouse,Acme,Electronics,Purple,restock,7,393.22,online order,2026-07-08 07:45:00
+80,1007,Bluetooth Speaker,Zenith,Electronics,White,restock,24,477.51,promo batch,2026-07-03 07:27:00
+81,1006,Face Cream,Aster,Beauty,Red,restock,31,286.18,promo batch,2026-07-03 05:48:00
+82,1002,Running Shoes,Nova,Apparel,Green,restock,19,102.11,store replenishment,2026-07-11 01:51:00
+83,1010,Water Bottle,Nova,Sports,Purple,sale,-23,466.02,promo batch,2026-07-04 20:01:00
+84,1001,Wireless Mouse,Acme,Electronics,Green,restock,26,165.41,stock correction,2026-07-11 13:26:00
+85,1009,T-Shirt,Acme,Apparel,Red,sale,-8,229.97,stock correction,2026-07-15 02:53:00
+86,1001,Wireless Mouse,Acme,Electronics,White,restock,36,377.04,promo batch,2026-07-16 21:28:00
+87,1006,Face Cream,Aster,Beauty,Gray,sale,-17,437.46,store replenishment,2026-07-09 12:46:00
+88,1009,T-Shirt,Acme,Apparel,Gray,restock,7,171.86,store replenishment,2026-07-20 06:18:00
+89,1003,Coffee Maker,Vertex,Home,Red,restock,35,382.94,online order,2026-07-21 15:28:00
+90,1003,Coffee Maker,Vertex,Home,White,sale,-36,220.65,warehouse sync,2026-07-01 20:36:00
+91,1003,Coffee Maker,Vertex,Home,Green,sale,-25,443.88,promo batch,2026-07-09 19:29:00
+92,1010,Water Bottle,Nova,Sports,White,restock,34,112.1,warehouse sync,2026-07-05 02:15:00
+93,1002,Running Shoes,Nova,Apparel,White,sale,-20,135.52,online order,2026-07-21 06:31:00
+94,1001,Wireless Mouse,Acme,Electronics,Blue,restock,24,20.81,warehouse sync,2026-07-02 20:52:00
+95,1005,Yoga Mat,Pulse,Sports,White,sale,-38,116.52,store replenishment,2026-07-13 18:01:00
+96,1007,Bluetooth Speaker,Zenith,Electronics,Purple,sale,-2,65.07,promo batch,2026-07-05 22:21:00
+97,1009,T-Shirt,Acme,Apparel,Red,restock,22,25.6,promo batch,2026-07-03 00:31:00
+98,1006,Face Cream,Aster,Beauty,Yellow,sale,-18,201.0,warehouse sync,2026-07-09 08:46:00
+99,1005,Yoga Mat,Pulse,Sports,Blue,restock,17,216.93,warehouse sync,2026-07-15 02:38:00
+100,1008,Desk Lamp,Cobalt,Home,Yellow,restock,21,101.42,stock correction,2026-07-18 23:12:00
